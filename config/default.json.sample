@@ -1,0 +1,10 @@
+{
+  "sf": {
+    "server": "https://test.salesforce.com/services/oauth2/token", //(OR PROD: https://login.salesforce.com/services/oauth2/token) 
+    "endpoint": "ENDPOINT TO HIT AFTER LOGIN",
+    "user": "SALESFORCE USER",
+    "password": "SALESFORCE PASSWORD",
+    "key": "SALESFORCE LOGIN TOKEN",
+    "secret": ""
+  }
+}
