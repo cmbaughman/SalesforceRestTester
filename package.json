@@ -1,0 +1,21 @@
+{
+  "name": "salesforceresttester",
+  "version": "1.0.0",
+  "description": "Small command line util for testing Salesforce REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "config": "^1.14.0",
+    "request": "^2.58.0",
+    "request-promise": "^0.4.2"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "salesforceresttester": "index.js"
+  }
+}
